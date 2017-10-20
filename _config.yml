@@ -1,0 +1,8 @@
+title: Cherryzhangqianqian.GitHub.io
+description: create a blog and share the konwledge  that i learn
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
